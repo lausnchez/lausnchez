@@ -10,7 +10,9 @@
 </div>
 <br>
 I'm an aspiring BackEnd developer currently studying my second year at a FP in cross-platform application development in Madrid, Spain.
-
+<div>
+[Ilustracion_de_perfil](./Ilustracion_ReadME.png);
+</div>
 <!--
 **lausnchez/lausnchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
