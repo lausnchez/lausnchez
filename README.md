@@ -1,18 +1,18 @@
 <h2 align="center"> Hi there, I'm Laura Sánchez!</h2>
 <div align="center">
-    <a href="www.linkedin.com/in/lausanmart" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&link=www.linkedin.com%2Fin%2Flausanmart
-        " target="_blank">
+    <a href="www.linkedin.com/in/lausanmart">
+        <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=blue" target="_blank">
     </a>
     <a href="mailto:lausnchezmartn@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank">
     </a>
+     <a href="https://github.com/lausnchez?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+     </a>
 </div>
 <br>
 I'm an aspiring BackEnd developer currently studying my second year at a FP in cross-platform application development in Madrid, Spain.
-<div>
-![Ilustracion_ReadME](Ilustracion_ReadME.png);
-</div>
+
 <!--
 **lausnchez/lausnchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
