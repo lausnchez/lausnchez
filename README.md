@@ -6,9 +6,9 @@
     <a href="mailto:lausnchezmartn@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank">
     </a>
-     <a href="https://github.com/lausnchez?tab=followers">
+     <!--<a href="https://github.com/lausnchez?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lausnchez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-     </a>
+     </a>-->
 </div>
 <br>
 <img src="https://github.com/lausnchez/lausnchez/blob/main/Ilustracion_ReadME.png" align="right" width="30%" height="30%"/>
