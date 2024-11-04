@@ -17,7 +17,7 @@ I'm an aspiring BackEnd developer currently studying my second year at a FP in c
     <br><br>
     <li>💻 I'm currently studying Java, Python and C#</li>
     <li>📝 I'm working on my final degree project in Kotlin</li>
-    <li>💌 I would love to learn basic videogame programming</li>
+    <li>💌 I would love to learn basic videogame programming and electronics</li>
 </div>
 
 <!--
