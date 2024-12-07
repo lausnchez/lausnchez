@@ -1,5 +1,5 @@
 <h2 align="left"> Hi there, I'm Laura Sánchez! ☁️</h2>
-``` Cross-platform Application Developer ```
+    <code>Cross-platform Application Developer based in Madrid (Spain)</code>
 <img src="https://github.com/lausnchez/lausnchez/blob/main/Ilustracion_ReadME.png" align="right" width="30%" height="10%"/>
 <p align="left">
     <!--LINKEDIN-->
@@ -69,6 +69,6 @@
     -->    
 </div>
     <h3>🔓 My Stats</h3>
-        <img align ="left" src="https://github-readme-stats.vercel.app/api?username=lausnchez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de lausnchez">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lausnchez&theme=catppuccin_mocha&hide_border=false" alt="Racha de contribuciones de lausnchez">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausnchez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados por lausnchez"> 
+        <img align ="left" src="https://github-readme-stats.vercel.app/api?username=lausnchez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de lausnchez" width="49%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lausnchez&theme=catppuccin_mocha&hide_border=false" alt="Racha de contribuciones de lausnchez" width="49%">
+        <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausnchez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados por lausnchez"> -->
