@@ -1,16 +1,16 @@
 <h2 align="left"> Hi there, I'm Laura Sánchez! ☁️</h2>
-    <code>Cross-platform Application Developer based in Madrid (Spain)</code>
+    <code> Cross-platform Application Developer based in Madrid (Spain) </code>
 <img src="https://github.com/lausnchez/lausnchez/blob/main/Ilustracion_ReadME.png" align="right" width="30%" height="10%"/>
 <p align="left">
     <!--LINKEDIN-->
-    <a href="www.linkedin.com/in/lausanmart">
+    <a href="https://www.linkedin.com/in/lausanmart">
         <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=blue" target="_blank"></a>
     <!--GMAIL-->
     <a href="mailto:lausnchezmartn@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
     <!--LEETCODE-->
     <a href="https://leetcode.com/u/lausnchez/">
-        <img alt="leetcode" title="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+        <img alt="leetcode" title="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/></a>
     <!--FOLLOW GITHUB-->
     <a href="https://github.com/lausnchez?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lausnchez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
