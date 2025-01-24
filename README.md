@@ -18,20 +18,21 @@
 <div align="left">  
     <p>
         Hi, nice to meet you!!🙋 I'm Laura, thanks for passing by my profile, it means a lot to me! I'm currently finishing my studies in Cross-Platform Application Development in my hometown, Madrid (Spain). 
-        <br>
-        I am a really curious person who enjoys exploring different types of technologies and entertainment, including illustration (I'm a former designer!), books and specially videogames. Nowadays electronics have picked my interest, and I'm starting to try new things in that department while working on my programming skills ☀️
+        <br><br>
+        I am a really curious person who enjoys exploring different types of technologies and entertainment, including illustration (I'm a former designer!), books and specially videogames. Nowadays I'm trying to learn how to program videogames in Unity while working in my programming logic and skills ☀️
     </p>
     <h3>💻 My Stack</h3>
     <!--DESCOMENTAR LOS QUE SEAN NECESARIOS-->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>     <!--JAVA-->
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>          <!--PYTHON-->
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>      <!--C#-->
     <!--<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>    <!--KOTLIN-->
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>         <!--MYSQL-->
     <!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/> -->        <!--MARIADB-->
     <!--<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>   <!--DOCKER-->
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>      <!--C#-->
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>      <!--HTML5-->
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>        <!--CSS3-->
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>     <!--UNITY-->
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>        <!--JIRA-->
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>    <!--NOTION-->
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>    <!--TRELLO-->
