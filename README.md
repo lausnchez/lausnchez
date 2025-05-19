@@ -11,9 +11,11 @@
     <!--LEETCODE-->
     <a href="https://leetcode.com/u/lausnchez/">
         <img alt="leetcode" title="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/></a>
-    <!--FOLLOW GITHUB-->
+    <!--FOLLOW GITHUB 
     <a href="https://github.com/lausnchez?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lausnchez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
+    -->
+    
 </p>
 <div align="left">  
     <p>
