@@ -35,6 +35,7 @@ I am a really curious person who enjoys exploring different types of technologie
   <h4>🧩 Frameworks & Engines</h4>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/langchain-%232B3E50.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
 </div>
 <div align="center">
   <h4>📋 Tools & Methodologies</h4>
