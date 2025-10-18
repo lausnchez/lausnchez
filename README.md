@@ -1,10 +1,6 @@
 ## Hi there! I'm Laura, nice to meet you! ☁️
 `Cross-platform Full-Stack Developer based in Madrid (Spain)`
 
-<img src="https://github.com/lausnchez/lausnchez/blob/main/Ilustracion_ReadME.png" align="right" width="30%" height="10%" />
-
-### 📫 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](https://www.linkedin.com/in/lausanmart)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:lausnchezmartn@gmail.com)
 
@@ -17,6 +13,8 @@ Nowadays I'm trying to learn front-end tech to take my programming skills and pr
 </p>
 
 <br>
+
+
 
 <hr>
 <h3 align="center">💻 My Stack</h3>
